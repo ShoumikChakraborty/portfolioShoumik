@@ -1,0 +1,213 @@
+lbd
+lbd - load balancing detector 0.4 - Checks if a given domain uses load-balancing.
+                                    Written by Stefan Behte (http://ge.mine.nu)
+                                    Proof-of-concept! Might give false positives.
+
+Checking for DNS-Loadbalancing: NOT FOUND
+Checking for HTTP-Loadbalancing [Server]: 
+ Apache
+ NOT FOUND
+
+Checking for HTTP-Loadbalancing [Date]: 11:52:13, 11:52:13, 11:52:14, 11:52:14, 11:52:14, 11:52:15, 11:52:15, 11:52:16, 11:52:16, 11:52:17, 11:52:17, 11:52:18, 11:52:18, 11:52:19, 11:52:19, 11:52:20, 11:52:20, 11:52:20, 11:52:21, 11:52:21, 11:52:22, 11:52:22, 11:52:23, 11:52:23, 11:52:24, 11:52:24, 11:52:24, 11:52:25, 11:52:25, 11:52:26, 11:52:26, 11:52:27, 11:52:27, 11:52:27, 11:52:28, 11:52:28, 11:52:29, 11:52:29, 11:52:30, 11:52:30, 11:52:31, 11:52:31, 11:52:31, 11:52:32, 11:52:32, 11:52:33, 11:52:33, 11:52:34, 11:52:34, 11:52:34, NOT FOUND
+
+Checking for HTTP-Loadbalancing [Diff]: FOUND
+< Date: Mon, 24 May 2021 11:52:22 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:23 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:23 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:24 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:24 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:25 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:25 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:26 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:26 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:26 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:27 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:27 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:28 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:28 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:29 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:29 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:29 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:30 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:30 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:31 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:31 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:32 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:32 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:32 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:33 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:33 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:34 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:34 GMT
+< Server: Apache
+< Cache-Control: no-cache
+< Connection: close
+< Content-Type: text/html; charset=UTF-8
+< 
+< HTTP/1.1 200 OK
+< Date: Mon, 24 May 2021 11:52:35 GMT
+
+nismgroupb-env.eba-3ytnmtgq.us-east-1.elasticbeanstalk.com does Load-balancing. Found via Methods: HTTP[Diff]
+
