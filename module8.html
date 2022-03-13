@@ -1,0 +1,238 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Shoumik Chakraborty</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+				<!-- Note: The "styleN" class below should match that of the banner element. -->
+					<header id="header" class="alt style2">
+						<a href="index.html" class="logo"><strong>Shoumik Chakraborty</strong> <span>ePortfolio</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+						</ul>
+					</nav>
+
+				<!-- Banner -->
+				<!-- Note: The "styleN" class below should match that of the header element. -->
+					<section id="banner" class="style2">
+						<div class="inner">
+							<span class="image">
+								<img src="images/pic07.jpg" alt="" />
+							</span>
+							<header class="major">
+								<h1>Research Methodods and Professional Practises</h1>
+							</header>
+							<div class="content">
+								<p>The new era of information technology promotes "Internet of Things (IoT), Big Data, Industry 4.0, BYOD (Bring Your Own Device) and CYOD (Choose Your Own systems, the Internet of Things (IoT), Big Data, Industry 4.0, BYOD (Bring Your Own Device) and CYOD (Choose Your Own Device) trends." (Pereira et al., 2017) resulting in security vulnerabilities which can lead to high information risks.</p>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+						<section id="zero">
+								<div class="inner">
+									<header class="major">
+										<h2>References</h2>
+									</header>
+									<p>Pereira, T., Barreto, L., & Amaral, A. (2017) Network and information security challenges within Industry 4.0 paradigm. Available From: https://www.sciencedirect.com/science/article/pii/S2351978917306820 [Accessed 24 July 2021]
+									</p>
+									
+								</div>
+							</section>
+
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>Learning Outcomes</h2>
+									</header>
+									<p>
+										<li>Identify the penetration testing tools available in the industry and their functionality.</li>
+										<li>Implementation of the pen-testing tools.</l1>
+										<li>Identify vulnerabilities and their remediation.</li>
+										<li>Identify vulnerabilities manually and interpret the security challenges</li>
+									</p>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two" class="spotlights">
+								
+								<section>
+									<a href="Learning_Launching_Module.html" class="image">
+										<img src="images/pic09.jpg" alt="" data-position="top center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Reflections</h3>
+											</header>
+											<p>The module course helped to understand the dynamics of vulnerability scanning and threat hunting. Apart from the regular learning, there have been interesting discussions related to the different types of attacks that have happened previously and their impact on the organization and the customers(<a href="Dublin Mint Office.docx">Week 8 Dublin Mint Office - effect GDPR related case</a>).</p>
+
+<p>The module included hosting a website using AWS (cloud) which provided me with the understanding of Elastic-Beanstalk and other services provided by cloud computing organizations. The process educated the following:</p>
+
+<li>How to manage websites over the cloud.</li>
+<li>How to activate/deactivate ports.</li>
+<li>Access SSH using the public key.</li>
+<p>This knowledge will be helpful in future if there is a cloud deployment using AWS and will allow the students to add pre-configured security measures.<p>
+
+<p>Module 4 was based on the recon of the website, please check the output for the module (<a href="Initial Recon Output.docx">Week 4 Discussion</a>) <p>
+
+<p> Module 6 was based on the design approach implemented by the team and the tools to be used for threat hunting (<a href="Group 2 - NISM Design Document.docx">Design Document</a>). </p>
+<p>The Final part of the assignment was the identification of vulnerabilities, security risks associated, and remediation plans. The implementation of the learnings from the IRM module provided the groundwork for the identification of risks and the remediation plan (<a href="NISM -  Executive Summary.docx">Executive Summary</a>).</p>
+
+												
+									
+									
+										</div>
+									</div>
+								</section>
+								<section>
+									<a href="Learning_Launching_Module.html" class="image">
+										<img src="images/pic08.jpg" alt="" data-position="center center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Penetration Testing Tool Outputs and Analysis</h3>
+											</header>
+											<p>Output from the following tools (please click on the name for the output details)
+												<li><a href="NMAP.docx">NMAP</a></li>
+												<li><a href="NIKTO.docx">NIKTO</a></li>
+												<li><a href="LBD.txt">LBD</a></li>
+												<li><a href="Nessus.pdf">NESSUS</a></li>
+												<li><a href="ZAP.html.zip">ZAP</a></li>
+											</p>
+											<p> The Data collected from the above tools indicated the following findings:</p>
+											<p>FND 1: The site is currently missing a Load Balancer or Intrusion Prevention System (IPS), resulting in a successful D-DoS attack. This weakness in the system can result in service disruption.</p>
+											<p>Remediation Plan (Recommendations): Use a Load balancer or IPS</p>
+
+<p>FND 2: This plugin is a SYN 'half-open' port scanner. It shall be reasonably quick even against a firewalled target. Note that SYN scans are less intrusive than TCP (full connect) scans against broken services, but they might cause problems for less robust firewalls and also leave unclosed connections on the remote target if the network is loaded.</p>
+											<p>Remediation Plan: </p>
+											<li>Protect your target with an IP filter.</li>
+											<li>Implement a hardware/software Firewall.</li>
+											<p>
+												
+											</p>
+
+<p>FND 3: The website is susceptible to Man In The Middle attack, and the data transferred is not encrypted since it has HTTP port 80 open.</p>
+											<p>Remediation Plan: Block port 80</p>
+
+<p>FND 4: The SSH port number, SSH version, the Apache webserver version, the Fully Qualified Domain Name of the system, and the Operating System type is visible can result in targeted D-Dos and Brute force attack. The SSH server is configured to support Cipher Block Chaining (CBC) encryption. This may allow an attacker to recover the plaintext message from the ciphertext.</p>
+											<p>Remediation Plan: </p>
+											<li>Change SSH configuration and update Apache to the latest version.</li>
+											<li>Contact the vendor or consult product documentation to disable CBC mode cypher encryption, and enable CTR or GCM cypher mode encryption.</li>
+											<p>
+												
+											</p>
+
+<p>FND 5: The system is susceptible to Cross-Site Request Forgery and can lead to unauthorized privileged access to the attacker</p>
+											<p>Remediation Plan: </p>
+											<li>Block port 80</li>
+<li>Enable X-Framework Option</li>
+<li>Implementing Content Security Policy's "frame-ancestors" directive</li>
+<li>Change FRAMESET to "DENY"</li>
+<li>X-XSS-Protection header to be defined</li>
+<li>Anti-MIME-Sniffing header X-Content-Type-Options to be set as 'nosniff'</li>
+<li>Block access to the following pages to ensure JavaScript source files are loaded from only trusted sources, and the sources can't be controlled by end-users of the application.</li>
+											<ul>
+<li>http://www.123easyinvite.com/assets/css/bootstrap.min.css</li>
+<li>http://www.123easyinvite.com/assets/css/bootstrap-responsive.min.css</li>
+<li>https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?s=2</li></ul>
+
+											
+										</div>
+									</div>
+								</section>
+								
+							</section>
+
+						<!-- Three -->
+							<section id="three">
+								<div class="inner">
+									<header class="major">
+										<h2>Professional Skills Matrix and Action Plan</h2>
+									</header>
+									<p>The overall module created the thought process of how a web server can be penetrated and identify the loopholes, for a similar project in the future following will be the approach:</p>
+<li>Explore the source code and identify the weakness</p>
+<li>Explore the known weakness on the hosted apache server</p>
+<li>Launch a targetted attack to explore the vulnerabilities</p>
+
+<p>Among the multiple findings (<a href="NISM -  ePortFolio.docx">ePortFolio</a>), the availability of the source code directly from the webpage has been identified as critical. This can lead to a direct attack on the website leading to unauthorized access to the system. </p>
+<li><a href="bootstrap_min.docx">bootstrap_min</a></li>
+<li><a href="bootstrap-responsive.docx">bootstrap-responsive</a></li>
+<li><a href="jquery_min_js.docx">jquery_min_js</a></li>
+
+									
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Contact -->
+					<section id="contact">
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="mailto:shoumik.chakraborty.pro@gmail.com">shoumik.chakraborty.pro@gmail.com</a>
+									</div>
+								</section>	
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Phone</h3>
+										<span>(971) 555217804</span>
+									</div>
+								</section>			
+						
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://www.linkedin.com/in/shoumik-chakraborty/" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
