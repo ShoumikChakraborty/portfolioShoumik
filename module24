@@ -1,0 +1,292 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Shoumik Chakraborty</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+				<!-- Note: The "styleN" class below should match that of the banner element. -->
+					<header id="header" class="alt style2">
+						<a href="index.html" class="logo"><strong>Shoumik Chakraborty</strong> <span>ePortfolio</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+						</ul>
+					</nav>
+
+				<!-- Banner -->
+				<!-- Note: The "styleN" class below should match that of the header element. -->
+					<section id="banner" class="style2">
+						<div class="inner">
+							<span class="image">
+								<img src="images/pic07.jpg" alt="" />
+							</span>
+							<header class="major">
+								<h1>Research Methods and Professional Practice Module</h1>
+							</header>
+							<div class="content">
+								<p>This module will discuss the process of identifying and conducting scientific research</p>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+						<section id="zero">
+								<div class="inner">
+									<header class="major">
+										<h2>References</h2>
+									</header>
+									<p>
+										Bhatia, M. (2018) Your Guide to Qualitative and Quantitative Data Analysis Methods. Available from: https://humansofdata.atlan.com/2018/09/qualitative-quantitative-data-analysis-methods/ [Accessed 29 May 2022]
+									</p>
+									<p>
+										British Research Methodology. (N.D.) Research Design. Available from: https://www.studocu.com/en-gb/document/university-of-wolverhampton/researching-business-and-management-issues/brm-assignment-on-business-research-method/9656286 [Accessed 29 May 2022]
+									</p>
+									<p>
+										Farquhar J D. (2012) Case Study Research for Business. Available from: https://books.google.co.uk/books?hl=en&lr=&id=qtd-gbF_iKYC&oi=fnd&pg=PP2&dq=Farquhar+J+D.+(2012)+Case+Study+Research+for+Business.+Sage+Quatitative&ots=uxG4a4cCTX&sig=t1raH0xavzbSb0__31rilolsIlw#v=onepage&q=Farquhar%20J%20D.%20(2012)%20Case%20Study%20Research%20for%20Business.%20Sage%20Quatitative&f=false [Accessed 29 May 2022]
+									</p>
+									<p>
+										Miessler, D. (2020) The Difference between Deductive and Inductive Reasoning. Available from: https://danielmiessler.com/blog/the-difference-between-deductive-and-inductive-reasoning/ [Accessed 29 May 2022]
+									</p>
+									<p>
+										Rolfe,G., Freshwater, D. and Jasper, M. (2001). Critical Reflection for Nursing and the Helping Professions a User's Guide. Available at: https://my.cumbria.ac.uk/media/MyCumbria/Documents/ReflectiveModelRolfe.pdf [Accessed 29 May 2022].
+									</p>
+									
+								</div>
+							</section>
+
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>Unit 1-3</h2>
+									</header>
+									<p>
+										The unit has highlighted the importance of critical thinking in the pursuit of scientific research. During the phase, we also learned how to identify the research problem by leveraging the literature review. The unit also taught us, how to identify quality research text, the difference between deductive and inductive reasoning (Miessler,2020), and how to identify open-ended and close-ended questions.
+									</p>
+									<p>
+										The unit has also taught us the difference between Exploratory Research, Mixed Methods Research, Conclusive Research, and Qualitative Research (British Research Methodology, N.D.).
+
+									</p>
+									<p>
+										In the collaborative discussion, I chose the topic where Rouge Service offered guaranteed uptime which was leveraged by the criminal organization to disrupt the life of innocent people. The government agencies along with security vendors used DOS to takedown the Rouge Service networks when Rouge Service did not comply with the request from the government agencies.
+
+									</p>
+									<p>
+										In this scenario, both the government and Rouge Service were at fault. The Rouge Service did not add the disclaimer, stating the limitation of use of their service, while the government agencies destroyed data for an organization as well as all the clients including innocent clients.
+									</p>
+
+								</div>
+							</section>
+						<!-- Two -->
+							<section id="two">
+								<div class="inner">
+									<header class="major">
+										<h2>Unit 4-6</h2>
+									</header>
+									<p>
+										During this unit, I chose the case study, the importance and impact of cloud computing for building effective information systems in Higher Education. In units 4 to 6, I learned how to collect information from separate studies and how to correlate the study outcome with existing industrial products provided by Azure and AWS. In the module, I learned how to identify the participants and how to develop a questionnaire that can be used for qualitative and quantitative assessment (Farquhar, 2012).
+									</p>
+									<p>
+										At the end of the module, I was able to collect enough information to create a literature review on the importance and impact of cloud computing in the higher education sector. The review consisted of cost-based analysis, taking into consideration of the current socio-economic effect of cloud computing on the end-users.
+									</p>
+								</div>
+							</section>
+						<!-- Three -->
+							<section id="three">
+								<div class="inner">
+									<header class="major">
+										<h2>Unit 7-9</h2>
+									</header>
+									<p>
+												During these units, I have learned how to use different quantitative assessment methodologies, how to use excel to identify the outcome of the data set provided for assessment, I have also learned how to create charts and graphs (Bhatia, 2018).
+											</p>
+											<p>
+												The collaborative discussion has been very important since we discussed regarding professional responsibility of the researcher. The case study detailed a character Abi who has been provided with a research project by Whizzz for individual assessment of their product nutrition value. During the assessment by Abi, it was identified the nutrition value is not matching the exact claims. The discussion provided a good insight into how the situation should be handled by an individual researcher.
+											</p>
+											<p>
+												The most important learning came thru when my literature review was marked by the tutor and I was directed my mistake, which highlighted my biased research due to the selection of papers mostly highlighting the positive impact of cloud computing while neglecting the negative outcomes. This has been very important learning which I can use in the future while selecting my research literature reviews.
+											</p>
+								</div>
+							</section>
+						<!-- Four -->
+							<section id="four">
+								<div class="inner">
+									<header class="major">
+										<h2>Unit 10-12</h2>
+									</header>
+									<p>During the phase of units 10-12, I have learned how to create a research proposal including a project plan explaining each phase, how to provide proper inference, how to create a problem statement along with the artifacts that can be used to demonstrate the importance of the project.</p>
+											<p>At the time, I was able to correct my mistake in the literature review of highlighting only the positive aspects, by including more papers that highlighted the negative aspects of cloud computing so that those areas can be discussed and reviewed in a greater details thus was able to devise a research plan and method.</p>
+											<p>This modules will help me to implement timelines, project management, and finance management in the real world scenario.</p>
+								</div>
+							</section>
+						<!-- Five -->
+							<section id="five">
+								<div class="inner">
+									<header class="major">
+										<h2>Research Plan and Method</h2>
+									</header>
+									<p>
+										Following research plan was devised for the unit 10 research proposal
+									</p>
+									<p>
+									<img src="C3A430D2-4719-40CB-B7B0-4483E9DD8533.jpeg" alt="" />
+									</p>
+								</div>
+							</section>
+						<!-- Six -->
+							<section id="six">
+								<div class="inner">
+									<header class="major">
+										<h2>Reflective Model</h2>
+									</header>
+									<p>
+										Rolfe et al., (2001)
+									</p>
+									<p>
+										<img src="0AE7D48F-5DFF-43AB-8A73-F68C6ADEB10B.jpeg" alt="" />
+										
+									</p>
+								</div>
+							</section>
+						<!-- Seven -->
+							<section id="seven">
+								<div class="inner">
+									<header class="major">
+										<h2>Conclusion</h2>
+									</header>
+									<p>
+										While working on the literature review and research proposal for the impact of cloud computing over higher education institutes, I have learned
+										<li>how to identify a problem area,</li>
+										<li>how to break it down to a definitive problem statement,</li>
+										<li>how to identify the proper literature for the arguments,</li>
+										<li>how to gather information using qualitative and quantitative methods</li>
+										<li>how to create a project plan,</li>
+										<li>identifying risks and controls against the plan,</li>
+										<li>how to execute the project plan,</li>
+										<li>how to uphold academic integrity.</li>
+
+									</p>
+									<p>
+										The module also taught me that, if I feel I know a lot about the subject then I am biased toward an idea that will negatively affect the research since as a researcher since I will stop exploring and researching any theory that opposes my belief. So, the most important learning for me is to identify my weakness in selecting literature and to review to make sure, that I am looking at both positive and negative aspects of the theory that is being tested in my project.
+
+									</p>
+								</div>
+							</section>
+						<!-- Artifacts -->
+							<section id="eight">
+								<div class="inner">
+									<header class="major">
+										<h2>Learning Outcomes</h2>
+									</header>
+									<p>
+										<ul> Collaborative Discussion 1
+											<li><a href="https://github.com/ShoumikChakraborty/portfolioShoumik/raw/master/Unit 1 Initial Post and Summary Post.pdf">Initial Post</a></li>
+											<li>Summary Post</li>
+											<li>Peer Response 1</li>
+											<li>Peer Response 2</li>
+										</ul>
+								
+									<ul> Literature Review Outline
+											<li>Literature Review Outline document</li>
+											<li>Literature Review Outline Feedback</li>
+									</ul>
+									<ul> Collaborative Discussion 2
+											
+										<li>Initial Post</li>
+										<li>Summary Post</li>
+										<li>Peer Response 1</li>
+										<li>Peer Response 2</li>
+									</ul>
+									<ul> Literature Review
+										<li>Literature Review</li>
+										<li>Literature Review Feedback</li>
+									</ul>
+									<ul> Research Proposal Outline
+										<li>Research Proposal Outline document</li>
+										<li>Research Proposal Outline Feedback</li>
+									</ul>
+									<ul>
+										Statistical Worksheet
+										<li>Statistical Worksheet Submission</li>
+										<li>Statistical Worksheet Feedback</li>
+									</ul>
+									<ul>
+										Research Proposal
+										<li>Research Proposal PPT</li>
+										<li>Research Proposal Transcript</li>
+										<li>Research Proposal Feedback</li>
+									</ul>
+									<ul> Unit 12 Quiz and Skill Matrix
+										<li>Quiz</li>
+										<li>Professional Skill Matrix</li>
+									</ul>
+
+									</p>
+								</div>
+							</section>
+				<!-- Contact -->
+					<section id="contact">
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="mailto:shoumik.chakraborty.pro@gmail.com">shoumik.chakraborty.pro@gmail.com</a>
+									</div>
+								</section>	
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Phone</h3>
+										<span>(971) 555217804</span>
+									</div>
+								</section>			
+						
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://www.linkedin.com/in/shoumik-chakraborty/" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
