@@ -1,7 +1,41 @@
 MIME-Version: 1.0
 Content-Type: multipart/related; boundary="----=_NextPart_01D873C4.561DD6D0"
 
+<html>
+	<head>
+		<title>Shoumik Chakraborty</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+	<div id="wrapper">
 
+				<!-- Header -->
+				<!-- Note: The "styleN" class below should match that of the banner element. -->
+					<header id="header" class="alt style2">
+						<a href="index.html" class="logo"><strong>Shoumik Chakraborty</strong> <span>ePortfolio</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+						</ul>
+					</nav>
+
+				<!-- Banner -->
+				<!-- Note: The "styleN" class below should match that of the header element. -->
+					<section id="banner" class="style2">
+						<div class="inner">
+							<span class="image">
+								<img src="images/pic07.jpg" alt="" />
+							</span>
+							
 
 ------=_NextPart_01D873C4.561DD6D0
 Content-Location: file:///C:/204AE8D2/ReflectiveSummary2.htm
@@ -6291,3 +6325,4 @@ Content-Type: text/xml; charset="utf-8"
  <o:File HRef=3D"filelist.xml"/>
 </xml>
 ------=_NextPart_01D873C4.561DD6D0--
+</div></body></html>
